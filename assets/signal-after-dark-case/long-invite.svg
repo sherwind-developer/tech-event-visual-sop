@@ -1,0 +1,58 @@
+<svg width="1080" height="2400" viewBox="0 0 1080 2400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="2400" fill="#15171D"/>
+  <defs>
+    <linearGradient id="panel" x1="72" y1="60" x2="1020" y2="2250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2A2D36"/>
+      <stop offset="1" stop-color="#111218"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(760 260) rotate(112) scale(720 520)">
+      <stop stop-color="#C7B8FF" stop-opacity="0.68"/>
+      <stop offset="0.45" stop-color="#8B5CFF" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#8B5CFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="48" y="48" width="984" height="2304" fill="url(#panel)"/>
+  <rect x="48" y="48" width="984" height="2304" fill="url(#glow)"/>
+  <text x="108" y="150" fill="#F4F6FA" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="800">NULLBASE × OPEN BUILDERS CLUB</text>
+  <text x="108" y="310" fill="#C7B8FF" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="3">TECH AFTERPARTY</text>
+  <text x="108" y="444" fill="#F4F6FA" font-family="Inter, Arial, sans-serif" font-size="92" font-weight="850">Signal</text>
+  <text x="108" y="548" fill="#F4F6FA" font-family="Inter, Arial, sans-serif" font-size="92" font-weight="850">After Dark</text>
+  <text x="112" y="630" fill="#C7B8FF" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="650">After the Keynote, Meet the Builders.</text>
+  <rect x="108" y="730" width="864" height="1.5" fill="#8B5CFF"/>
+  <text x="108" y="814" fill="#F4F6FA" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="760">Why Come</text>
+  <text x="108" y="870" fill="#C9CCD4" font-family="Inter, Arial, sans-serif" font-size="27">A small after-hours gathering for people building real systems.</text>
+  <text x="108" y="914" fill="#C9CCD4" font-family="Inter, Arial, sans-serif" font-size="27">Meet AI, robotics, devtool, hardware and creative coding builders.</text>
+  <g transform="translate(108 1010)">
+    <rect width="864" height="260" fill="#20232B" stroke="#3B3E48"/>
+    <text x="34" y="60" fill="#C7B8FF" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="760">20:00</text>
+    <text x="172" y="60" fill="#F4F6FA" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="760">Open Door &amp; Signal Check</text>
+    <text x="34" y="124" fill="#C7B8FF" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="760">20:30</text>
+    <text x="172" y="124" fill="#F4F6FA" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="760">4 Lightning Demos</text>
+    <text x="34" y="188" fill="#C7B8FF" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="760">21:20</text>
+    <text x="172" y="188" fill="#F4F6FA" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="760">Builder Mixer &amp; Open Tables</text>
+  </g>
+  <text x="108" y="1392" fill="#F4F6FA" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="760">Demo Projects</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="25">
+    <rect x="108" y="1440" width="400" height="176" fill="#20232B" stroke="#3B3E48"/>
+    <text x="136" y="1495" fill="#F4F6FA" font-weight="800">Orbit Agent Console</text>
+    <text x="136" y="1542" fill="#C9CCD4">Multi-agent control surface</text>
+    <text x="136" y="1584" fill="#8B5CFF">Robotics / Agent</text>
+    <rect x="572" y="1440" width="400" height="176" fill="#20232B" stroke="#3B3E48"/>
+    <text x="600" y="1495" fill="#F4F6FA" font-weight="800">HoloHand Kit</text>
+    <text x="600" y="1542" fill="#C9CCD4">Low-cost dexterous hand prototype</text>
+    <text x="600" y="1584" fill="#8B5CFF">Hardware / Interaction</text>
+    <rect x="108" y="1660" width="400" height="176" fill="#20232B" stroke="#3B3E48"/>
+    <text x="136" y="1715" fill="#F4F6FA" font-weight="800">MotionSeed Lab</text>
+    <text x="136" y="1762" fill="#C9CCD4">Video-to-robot motion workflow</text>
+    <text x="136" y="1804" fill="#8B5CFF">Embodied AI / Motion</text>
+    <rect x="572" y="1660" width="400" height="176" fill="#20232B" stroke="#3B3E48"/>
+    <text x="600" y="1715" fill="#F4F6FA" font-weight="800">Whisper Dock</text>
+    <text x="600" y="1762" fill="#C9CCD4">Desktop AI hardware companion</text>
+    <text x="600" y="1804" fill="#8B5CFF">Voice Agent / Device</text>
+  </g>
+  <text x="108" y="1978" fill="#F4F6FA" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="760">Event Info</text>
+  <text x="108" y="2040" fill="#C9CCD4" font-family="Inter, Arial, sans-serif" font-size="30">2026.09.18  20:00-23:30</text>
+  <text x="108" y="2092" fill="#C9CCD4" font-family="Inter, Arial, sans-serif" font-size="30">Shanghai · The Grid Lab Rooftop</text>
+  <rect x="108" y="2188" width="268" height="64" fill="#8B5CFF"/>
+  <text x="138" y="2230" fill="#F4F6FA" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="850">RSVP REQUIRED</text>
+</svg>

@@ -1,0 +1,56 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="1350" fill="#15171D"/>
+  <defs>
+    <radialGradient id="agendaGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(790 220) rotate(136) scale(640 360)">
+      <stop stop-color="#C7B8FF" stop-opacity="0.72"/>
+      <stop offset="0.44" stop-color="#8B5CFF" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#8B5CFF" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="avatar1"><circle cx="178" cy="498" r="54"/></clipPath>
+    <clipPath id="avatar2"><circle cx="178" cy="674" r="54"/></clipPath>
+    <clipPath id="avatar3"><circle cx="178" cy="850" r="54"/></clipPath>
+    <clipPath id="avatar4"><circle cx="178" cy="1026" r="54"/></clipPath>
+  </defs>
+  <rect x="64" y="64" width="952" height="1222" fill="#1B1D23" stroke="#343844"/>
+  <rect x="64" y="64" width="952" height="1222" fill="url(#agendaGlow)"/>
+  <g opacity="0.28">
+    <line x1="112" y1="382" x2="968" y2="382" stroke="#8E939D"/>
+    <line x1="112" y1="558" x2="968" y2="558" stroke="#8E939D"/>
+    <line x1="112" y1="734" x2="968" y2="734" stroke="#8E939D"/>
+    <line x1="112" y1="910" x2="968" y2="910" stroke="#8E939D"/>
+    <line x1="112" y1="1086" x2="968" y2="1086" stroke="#8E939D"/>
+  </g>
+  <text x="112" y="154" fill="#C7B8FF" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="800" letter-spacing="3">AGENDA · FICTIONAL TEST</text>
+  <text x="112" y="250" fill="#F4F6FA" font-family="Inter, Arial, sans-serif" font-size="74" font-weight="850">Signal After Dark</text>
+  <text x="112" y="312" fill="#C9CCD4" font-family="Inter, Arial, sans-serif" font-size="28">2026.09.18 · 20:00-23:30 · The Grid Lab Rooftop</text>
+  <g font-family="Inter, Arial, sans-serif">
+    <circle cx="178" cy="498" r="58" stroke="#8B5CFF" stroke-width="3"/>
+    <image href="speaker-portraits/lin-violet.png" x="124" y="444" width="108" height="108" clip-path="url(#avatar1)" preserveAspectRatio="xMidYMid slice"/>
+    <text x="276" y="468" fill="#C7B8FF" font-size="30" font-weight="800">20:00</text>
+    <text x="276" y="514" fill="#F4F6FA" font-size="35" font-weight="820">Open Door &amp; Signal Check</text>
+    <text x="276" y="552" fill="#C9CCD4" font-size="24">Lin Violet · Host, Nullbase Studio</text>
+
+    <circle cx="178" cy="674" r="58" stroke="#8B5CFF" stroke-width="3"/>
+    <image href="speaker-portraits/kai-reyes.png" x="124" y="620" width="108" height="108" clip-path="url(#avatar2)" preserveAspectRatio="xMidYMid slice"/>
+    <text x="276" y="644" fill="#C7B8FF" font-size="30" font-weight="800">20:30</text>
+    <text x="276" y="690" fill="#F4F6FA" font-size="35" font-weight="820">Lightning Demo Hour</text>
+    <text x="276" y="728" fill="#C9CCD4" font-size="24">Kai Reyes · Robotics Agent Builder</text>
+
+    <circle cx="178" cy="850" r="58" stroke="#8B5CFF" stroke-width="3"/>
+    <image href="speaker-portraits/arun-mehta.png" x="124" y="796" width="108" height="108" clip-path="url(#avatar3)" preserveAspectRatio="xMidYMid slice"/>
+    <text x="276" y="820" fill="#C7B8FF" font-size="30" font-weight="800">21:20</text>
+    <text x="276" y="866" fill="#F4F6FA" font-size="35" font-weight="820">Builder Mixer</text>
+    <text x="276" y="904" fill="#C9CCD4" font-size="24">Arun Mehta · Open Hardware Community Lead</text>
+
+    <circle cx="178" cy="1026" r="58" stroke="#8B5CFF" stroke-width="3"/>
+    <image href="speaker-portraits/mira-stone.png" x="124" y="972" width="108" height="108" clip-path="url(#avatar4)" preserveAspectRatio="xMidYMid slice"/>
+    <text x="276" y="996" fill="#C7B8FF" font-size="30" font-weight="800">22:40</text>
+    <text x="276" y="1042" fill="#F4F6FA" font-size="35" font-weight="820">Late Signal Notes</text>
+    <text x="276" y="1080" fill="#C9CCD4" font-size="24">Mira Stone · Creative Coding Researcher</text>
+  </g>
+  <g transform="translate(112 1166)">
+    <rect width="250" height="58" fill="#8B5CFF"/>
+    <text x="30" y="39" fill="#F4F6FA" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="850">RSVP REQUIRED</text>
+    <text x="296" y="39" fill="#C9CCD4" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="650">Demo showcase · Builder mixer · Open tables</text>
+  </g>
+</svg>

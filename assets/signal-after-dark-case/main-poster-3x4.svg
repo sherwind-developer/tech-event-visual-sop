@@ -1,0 +1,57 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="1440" fill="#15171D"/>
+  <defs>
+    <linearGradient id="bg" x1="64" y1="122" x2="1040" y2="1260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#30323A"/>
+      <stop offset="0.48" stop-color="#1B1D23"/>
+      <stop offset="1" stop-color="#0F1015"/>
+    </linearGradient>
+    <radialGradient id="violet" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(732 404) rotate(124) scale(640 350)">
+      <stop stop-color="#C7B8FF" stop-opacity="0.72"/>
+      <stop offset="0.42" stop-color="#8B5CFF" stop-opacity="0.36"/>
+      <stop offset="1" stop-color="#8B5CFF" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="38"/></filter>
+  </defs>
+  <rect x="44" y="44" width="992" height="1352" rx="0" fill="url(#bg)"/>
+  <rect x="44" y="44" width="992" height="1352" fill="url(#violet)"/>
+  <g opacity="0.26">
+    <path d="M126 280H958" stroke="#8E939D" stroke-width="1"/>
+    <path d="M126 408H958" stroke="#8E939D" stroke-width="1"/>
+    <path d="M126 536H958" stroke="#8E939D" stroke-width="1"/>
+    <path d="M126 664H958" stroke="#8E939D" stroke-width="1"/>
+    <path d="M126 792H958" stroke="#8E939D" stroke-width="1"/>
+    <path d="M240 164V1248" stroke="#8E939D" stroke-width="1"/>
+    <path d="M412 164V1248" stroke="#8E939D" stroke-width="1"/>
+    <path d="M584 164V1248" stroke="#8E939D" stroke-width="1"/>
+    <path d="M756 164V1248" stroke="#8E939D" stroke-width="1"/>
+  </g>
+  <g filter="url(#blur)" opacity="0.75">
+    <path d="M96 1018C280 780 466 690 660 624C806 574 906 496 1012 348" stroke="#8B5CFF" stroke-width="42"/>
+  </g>
+  <g opacity="0.9">
+    <path d="M146 176H248" stroke="#C7B8FF" stroke-width="2"/>
+    <circle cx="142" cy="176" r="6" fill="#8B5CFF"/>
+    <text x="268" y="185" fill="#F4F6FA" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700">NULLBASE</text>
+    <text x="812" y="185" fill="#C7B8FF" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="600">OPEN BUILDERS CLUB</text>
+  </g>
+  <text x="120" y="362" fill="#C7B8FF" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="3">TECH AFTERPARTY</text>
+  <text x="116" y="510" fill="#F4F6FA" font-family="Inter, Arial, sans-serif" font-size="102" font-weight="800">Signal</text>
+  <text x="116" y="624" fill="#F4F6FA" font-family="Inter, Arial, sans-serif" font-size="102" font-weight="800">After Dark</text>
+  <text x="120" y="706" fill="#C7B8FF" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="650">After the Keynote, Meet the Builders.</text>
+  <g transform="translate(120 790)">
+    <rect width="840" height="2" fill="#8B5CFF"/>
+    <text y="72" fill="#F4F6FA" font-family="Inter, Arial, sans-serif" font-size="31" font-weight="650">AI Agents / Robotics / DevTools / Creative Coding / Open Source</text>
+  </g>
+  <g transform="translate(120 1024)">
+    <text y="0" fill="#8E939D" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="600">TIME</text>
+    <text y="50" fill="#F4F6FA" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="760">2026.09.18  20:00-23:30</text>
+    <text y="126" fill="#8E939D" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="600">VENUE</text>
+    <text y="176" fill="#F4F6FA" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="760">Shanghai · The Grid Lab Rooftop</text>
+  </g>
+  <g transform="translate(120 1290)">
+    <rect width="240" height="58" fill="#8B5CFF"/>
+    <text x="28" y="39" fill="#F4F6FA" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800">RSVP REQUIRED</text>
+    <text x="300" y="39" fill="#8E939D" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="600">Limited seats · Demo showcase · Builder mixer</text>
+  </g>
+</svg>

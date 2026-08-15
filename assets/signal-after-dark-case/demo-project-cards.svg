@@ -1,0 +1,67 @@
+<svg width="1800" height="1800" viewBox="0 0 1800 1800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1800" height="1800" fill="#101116"/>
+  <defs>
+    <radialGradient id="demoGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(720 300) rotate(120) scale(640 360)">
+      <stop stop-color="#C7B8FF" stop-opacity="0.68"/>
+      <stop offset="0.42" stop-color="#8B5CFF" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#8B5CFF" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="demoAvatar1"><circle cx="674" cy="138" r="64"/></clipPath>
+    <clipPath id="demoAvatar2"><circle cx="674" cy="138" r="64"/></clipPath>
+    <clipPath id="demoAvatar3"><circle cx="674" cy="138" r="64"/></clipPath>
+    <clipPath id="demoAvatar4"><circle cx="674" cy="138" r="64"/></clipPath>
+  </defs>
+  <text x="90" y="130" fill="#C7B8FF" font-family="Inter, Arial, sans-serif" font-size="40" font-weight="800" letter-spacing="3">DEMO PROJECTS</text>
+  <text x="90" y="210" fill="#F4F6FA" font-family="Inter, Arial, sans-serif" font-size="72" font-weight="850">Signal After Dark</text>
+  <g font-family="Inter, Arial, sans-serif">
+    <g transform="translate(90 320)">
+      <rect width="780" height="600" fill="#1B1D23" stroke="#343844"/>
+      <rect width="780" height="600" fill="url(#demoGlow)"/>
+      <circle cx="674" cy="138" r="70" stroke="#8B5CFF" stroke-width="3"/>
+      <image href="speaker-portraits/kai-reyes.png" x="610" y="74" width="128" height="128" clip-path="url(#demoAvatar1)" preserveAspectRatio="xMidYMid slice"/>
+      <text x="46" y="82" fill="#8B5CFF" font-size="28" font-weight="800">01 / Robotics Agent</text>
+      <text x="46" y="182" fill="#F4F6FA" font-size="50" font-weight="850">Orbit Agent</text>
+      <text x="46" y="238" fill="#F4F6FA" font-size="50" font-weight="850">Console</text>
+      <text x="46" y="306" fill="#C9CCD4" font-size="31">A multi-agent control surface for robot</text>
+      <text x="46" y="350" fill="#C9CCD4" font-size="31">task orchestration and live debugging.</text>
+      <text x="46" y="410" fill="#F4F6FA" font-size="28" font-weight="760">Kai Reyes · Robotics Agent Builder</text>
+      <text x="46" y="470" fill="#C7B8FF" font-size="27" font-weight="760">Tags: Agent / Robotics / Control UI</text>
+    </g>
+    <g transform="translate(930 320)">
+      <rect width="780" height="600" fill="#1B1D23" stroke="#343844"/>
+      <rect width="780" height="600" fill="url(#demoGlow)"/>
+      <circle cx="674" cy="138" r="70" stroke="#8B5CFF" stroke-width="3"/>
+      <image href="speaker-portraits/lin-violet.png" x="610" y="74" width="128" height="128" clip-path="url(#demoAvatar2)" preserveAspectRatio="xMidYMid slice"/>
+      <text x="46" y="82" fill="#8B5CFF" font-size="28" font-weight="800">02 / Hardware Interaction</text>
+      <text x="46" y="198" fill="#F4F6FA" font-size="50" font-weight="850">HoloHand Kit</text>
+      <text x="46" y="266" fill="#C9CCD4" font-size="31">A low-cost dexterous hand prototype</text>
+      <text x="46" y="310" fill="#C9CCD4" font-size="31">kit for quick embodied interaction tests.</text>
+      <text x="46" y="410" fill="#F4F6FA" font-size="28" font-weight="760">Lin Violet · Hardware Interaction Lead</text>
+      <text x="46" y="470" fill="#C7B8FF" font-size="27" font-weight="760">Tags: Dexterous Hand / HCI / Prototype</text>
+    </g>
+    <g transform="translate(90 1010)">
+      <rect width="780" height="600" fill="#1B1D23" stroke="#343844"/>
+      <rect width="780" height="600" fill="url(#demoGlow)"/>
+      <circle cx="674" cy="138" r="70" stroke="#8B5CFF" stroke-width="3"/>
+      <image href="speaker-portraits/arun-mehta.png" x="610" y="74" width="128" height="128" clip-path="url(#demoAvatar3)" preserveAspectRatio="xMidYMid slice"/>
+      <text x="46" y="82" fill="#8B5CFF" font-size="28" font-weight="800">03 / Embodied Motion</text>
+      <text x="46" y="198" fill="#F4F6FA" font-size="50" font-weight="850">MotionSeed Lab</text>
+      <text x="46" y="266" fill="#C9CCD4" font-size="31">A video-to-robot motion workflow for</text>
+      <text x="46" y="310" fill="#C9CCD4" font-size="31">fast behavior testing on real hardware.</text>
+      <text x="46" y="410" fill="#F4F6FA" font-size="28" font-weight="760">Arun Mehta · Embodied Motion Researcher</text>
+      <text x="46" y="470" fill="#C7B8FF" font-size="27" font-weight="760">Tags: Motion / Embodied AI / Dataset</text>
+    </g>
+    <g transform="translate(930 1010)">
+      <rect width="780" height="600" fill="#1B1D23" stroke="#343844"/>
+      <rect width="780" height="600" fill="url(#demoGlow)"/>
+      <circle cx="674" cy="138" r="70" stroke="#8B5CFF" stroke-width="3"/>
+      <image href="speaker-portraits/mira-stone.png" x="610" y="74" width="128" height="128" clip-path="url(#demoAvatar4)" preserveAspectRatio="xMidYMid slice"/>
+      <text x="46" y="82" fill="#8B5CFF" font-size="28" font-weight="800">04 / Voice Agent Device</text>
+      <text x="46" y="198" fill="#F4F6FA" font-size="50" font-weight="850">Whisper Dock</text>
+      <text x="46" y="266" fill="#C9CCD4" font-size="31">A desktop AI hardware companion with</text>
+      <text x="46" y="310" fill="#C9CCD4" font-size="31">context-aware voice agent interactions.</text>
+      <text x="46" y="410" fill="#F4F6FA" font-size="28" font-weight="760">Mira Stone · Voice Interface Designer</text>
+      <text x="46" y="470" fill="#C7B8FF" font-size="27" font-weight="760">Tags: Voice Agent / Device / Interface</text>
+    </g>
+  </g>
+</svg>
