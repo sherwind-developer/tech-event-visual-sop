@@ -70,11 +70,38 @@ cp -R /path/to/tech-event-visual-sop ~/.codex/skills/tech-event-visual-sop
 - 虚构 Demo 项目：Orbit Agent Console、HoloHand Kit、MotionSeed Lab、Whisper Dock
 - 关键输出：主海报、长图邀请函、公众号封面拼图、议程图、Demo 项目卡、4 位虚构嘉宾头像
 
-**预览**
+**案例资产**
 
-![Signal After Dark agenda preview](assets/signal-after-dark-case/previews/agenda-card.svg.png)
+| 用途 | 源文件 | 预览 | 说明 |
+| --- | --- | --- | --- |
+| 主海报 | `assets/signal-after-dark-case/main-poster-3x4.svg` | `assets/signal-after-dark-case/previews/main-poster-3x4.png` | 用于社群转发、报名页首屏、活动主视觉确认。信息层级以活动名、hook、时间地点和 RSVP 为主。 |
+| 长图邀请函 | `assets/signal-after-dark-case/long-invite.svg` | `assets/signal-after-dark-case/previews/long-invite.png` | 用于微信社群、朋友圈或媒体沟通，承载活动介绍、议程、Demo 项目和 CTA。 |
+| 公众号封面拼图 | `assets/signal-after-dark-case/wechat-cover-pack.svg` | `assets/signal-after-dark-case/previews/wechat-cover-pack.png` | 模拟公众号头条封面 + 次条封面的组合检查图，方便后台上传前统一看裁切和识别度。 |
+| 议程图 | `assets/signal-after-dark-case/agenda-card.svg` | `assets/signal-after-dark-case/previews/agenda-card.png` | 用于同步活动流程，包含 4 位虚构嘉宾头像、时间节点、环节名称和身份说明。 |
+| Demo 项目卡 | `assets/signal-after-dark-case/demo-project-cards.svg` | `assets/signal-after-dark-case/previews/demo-project-cards.png` | 用于展示 4 个虚构 Demo 项目，包含项目名、简介、负责人头像、身份和技术标签。 |
+| Speaker 肖像资产 | `assets/signal-after-dark-case/speaker-portraits/` | - | 4 张虚构嘉宾头像，作为 agenda 和 demo card 的人物素材输入。 |
 
-![Signal After Dark demo project preview](assets/signal-after-dark-case/previews/demo-project-cards.svg.png)
+**完整预览**
+
+主海报：
+
+![Signal After Dark main poster preview](assets/signal-after-dark-case/previews/main-poster-3x4.png)
+
+长图邀请函：
+
+![Signal After Dark long invite preview](assets/signal-after-dark-case/previews/long-invite.png)
+
+公众号封面拼图：
+
+![Signal After Dark WeChat cover pack preview](assets/signal-after-dark-case/previews/wechat-cover-pack.png)
+
+议程图：
+
+![Signal After Dark agenda preview](assets/signal-after-dark-case/previews/agenda-card.png)
+
+Demo 项目卡：
+
+![Signal After Dark demo project preview](assets/signal-after-dark-case/previews/demo-project-cards.png)
 
 这个案例也暴露并补进了一个重要 QA 点：凡是生成 speaker/project portrait，必须确认 `头像资产存在`、`设计稿实际引用`、`预览渲染可见`、`头像不与文字重合`。
 
